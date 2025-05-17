@@ -35,7 +35,8 @@ To create an Ubuntu EC2 instance in AWS, follow these steps:
 9. **Configure Security Group**:
    - In the "Step 6: Configure Security Group" section, configure the security group to allow SSH access (port 22) from your IP address.
    - You may also want to allow other ports based on your requirements (e.g., HTTP, HTTPS) as in this 
-   ![alt text](image-2.png)
+   ![Screenshot 2024-03-13 002123](https://github.com/user-attachments/assets/b6dcd4bc-3400-4a1b-a37e-27599c0166f3)
+
    - Click "Review and Launch".
 
 10. **Review and Launch**:
